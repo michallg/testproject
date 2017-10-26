@@ -3,4 +3,4 @@ test
 ## Test
 ### lmpkmlkml
 ```;lkjlkj```
-### bla ###
+```apt update && apt-get -y dist-upgrade && apt clean && apt autoremove```
